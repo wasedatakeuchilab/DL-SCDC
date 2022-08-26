@@ -1,0 +1,5 @@
+-r requirements.txt
+pre-commit>=2.20.0
+black[jupyter]>=22.6.0
+isort[jupyter]>=5.10.1
+mypy>=0.971
