@@ -1,5 +1,7 @@
 # Deep Learning Solution to the SCDC Problem <!-- omit in toc -->
 
+:warning: This repository will be rebased in a few weeks. Do NOT fork me.
+
 This repogitory provides a deep learning solution to [the SCDC problem](#Problem).
 
 1. A sequential neural network was traind with a dataset of decay curves.
